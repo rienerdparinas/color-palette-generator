@@ -1,0 +1,26 @@
+{
+    "name": "Color Palette Generator",
+    "short_name": "Color Palette Generator",
+    "icons": [
+      {
+        "src": "favicon.png",
+        "type": "image/png",
+        "sizes": "180x180"
+      },
+      {
+        "src": "favicon-512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      },
+      {
+        "src": "favicon-192.png",
+        "type": "image/png",
+        "sizes": "192x192",
+        "purpose": "maskable"
+      }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#F3F3F3",
+    "background_color": "#F3F3F3"
+  }
